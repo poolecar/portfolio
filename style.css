@@ -44,27 +44,33 @@ a:hover {color:#000000;}  /* mouse over link */
 a:active {color:#000000;}  /* selected link */
 
 .introduce{
-      float:left;
+      display:inline-block;
+  margin-left:50px;
+}
+
+
+.resume{
+  display:block;
+      float:right;
+  margin-right:200px;
 }
 
 .portfolio{
-      float:left;
-}
-.introduce, .resume{
-      display:inline;
-}
-.resume{
-      float:right;
+      display:inline-block;
+  float:left;
+  margin-top:50px;
+  margin-left:200px;
 }
 
 .contact{
+  display:inline-block;
       float:right;
+  margin-top:50px;
+  margin-right:50px;
 }
-.portfolio, .contact{
-      display:inline;
-}
-.welcome{
-      clear:both;
+
+#welcome{
+    font-size:24px;
 }
 /*#portfolio{ 
             margin-left: 4000px;
