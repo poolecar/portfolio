@@ -34,18 +34,15 @@ h5 {
       font-family: arial;
       color: #082b64;
 }
- a {
+p a {
       text-decoration: none;
 }
-p{
-      text-align: right;
-      float: right;
-}
 
-#portfolio{ 
+
+/*#portfolio{ 
             margin-left: 4000px;
             position: fixed;
-}
+}*/
 .footer{
       display:block;
       clear: both;
