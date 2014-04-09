@@ -43,3 +43,7 @@ p{
             margin-left: 4000px;
             position: fixed;
 }
+.footer{
+      display:block;
+      clear: both;
+}
