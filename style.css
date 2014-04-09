@@ -57,6 +57,9 @@ a:active {color:#000000;}  /* selected link */
 .contact{
       float:right;
 }
+.welcome{
+      clear:both;
+}
 /*#portfolio{ 
             margin-left: 4000px;
             position: fixed;
