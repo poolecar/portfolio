@@ -31,6 +31,8 @@ h4 {
 p{
       text-align: right;
       float: right;
+      font-family: arial;
+      font-size: 14px;
 }
 
 #portfolio{ 
