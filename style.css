@@ -50,12 +50,18 @@ a:active {color:#000000;}  /* selected link */
 .portfolio{
       float:left;
 }
+.introduce, .resume{
+      display:inline;
+}
 .resume{
       float:right;
 }
 
 .contact{
       float:right;
+}
+.portfolio, .contact{
+      display:inline;
 }
 .welcome{
       clear:both;
