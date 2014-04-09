@@ -43,6 +43,13 @@ a:visited {color:#000000;}  /* visited link */
 a:hover {color:#000000;}  /* mouse over link */
 a:active {color:#000000;}  /* selected link */
 
+.introduce{
+      float:left;
+}
+
+.portfolio{
+      float:left;
+}
 .resume{
       float:right;
 }
