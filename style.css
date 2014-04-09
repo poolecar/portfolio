@@ -28,11 +28,13 @@ h4 {
       font-size: 48px;
 }
 
+h5 {
+      font-family: arial;
+      color: #082b64;
+}
 p{
       text-align: right;
       float: right;
-      font-family: arial;
-      font-size: 14px;
 }
 
 #portfolio{ 
