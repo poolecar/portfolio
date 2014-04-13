@@ -50,7 +50,7 @@ a:active {color:#000000;}  /* selected link */
 
 
 .resume{
-  display:block;
+  display:inline-block;
       float:right;
   margin-right:200px;
 }
