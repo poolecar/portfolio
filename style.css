@@ -78,6 +78,10 @@ a:active {color:#000000;}  /* selected link */
       color: #082b64;
      margin-right:200px;
 }
+
+#ducks{
+      margin-top: 200px;
+}
 /*#portfolio{ 
             margin-left: 4000px;
             position: fixed;
