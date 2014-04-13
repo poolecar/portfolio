@@ -72,6 +72,9 @@ a:active {color:#000000;}  /* selected link */
 #welcome{
     font-size:24px;
 }
+
+#introduce{ 
+      float:center;
 /*#portfolio{ 
             margin-left: 4000px;
             position: fixed;
