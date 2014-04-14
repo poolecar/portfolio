@@ -86,6 +86,7 @@ img{
 #ducks{
       margin-top: 200px;
       margin-left:1000px;
+      display:inline-block;
 }
 /*#portfolio{ 
             margin-left: 4000px;
