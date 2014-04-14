@@ -95,6 +95,11 @@ img{
       display:inline-block;
       margin-left:150px;
 }
+
+#me{
+      display:inline-block;
+      margin-right: 20px;
+}
 /*#portfolio{ 
             margin-left: 4000px;
             position: fixed;
