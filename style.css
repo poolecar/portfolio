@@ -43,7 +43,7 @@ a:visited {color:#000000;}  /* visited link */
 a:hover {color:#000000;}  /* mouse over link */
 a:active {color:#000000;}  /* selected link */
 
-/*.introduce{
+.introduce{
       display:inline-block;
   margin-left:50px;
 }
@@ -59,7 +59,7 @@ a:active {color:#000000;}  /* selected link */
       display:inline-block;
   float:left;
   margin-top:50px;
-  margin-left:200px;
+  margin-left:150px;
 }
 
 .contact{
@@ -67,10 +67,10 @@ a:active {color:#000000;}  /* selected link */
       float:right;
   margin-top:50px;
   margin-right:50px;
-}*/
+}
 
 img{
-      display:inline-block;
+  height:250px;
 }
 
 #welcome{
