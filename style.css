@@ -105,6 +105,11 @@ img{
       display: inline-block;
       margin-right: 150px;
 }
+
+#research{ 
+      display:inline-block;
+      margin-left: 100px;
+}
 /*#portfolio{ 
             margin-left: 4000px;
             position: fixed;
