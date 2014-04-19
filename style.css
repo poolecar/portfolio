@@ -116,6 +116,10 @@ img{
       display:inline-block;
       margin-left: 100px;
 }
+
+#experience{
+      color: #082b64;
+}
 /*#portfolio{ 
             margin-left: 4000px;
             position: fixed;
