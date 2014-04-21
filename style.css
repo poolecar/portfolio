@@ -81,21 +81,24 @@ a:active {color:#000000;}  /* selected link */
 
 .phone{
       margin-left: 50px;
+      display:inline-block;
       
 }
 
 .mailbox{
       margin-left: 100px;
+      display:inline-block;
       
 }
 
 .research{
       margin-left: 150px;
-      
+      display:inline-block
 }
 
 .professional{
       margin-right: 100px;
+      display:inline-block;
 }
 
 .essay{ 
