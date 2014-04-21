@@ -102,6 +102,8 @@ a:active {color:#000000;}  /* selected link */
       display:inline-block;
 }
 
+.essay{ 
+      margin-left: 200px;
 img{
   height:250px;
 }
