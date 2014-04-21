@@ -69,6 +69,10 @@ a:active {color:#000000;}  /* selected link */
   margin-right:50px;
 }
 
+.resumepdf{
+      margin-left:200px;
+}
+
 img{
   height:250px;
 }
