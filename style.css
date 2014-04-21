@@ -77,19 +77,16 @@ a:active {color:#000000;}  /* selected link */
       color:#082b64;
 }
 
-.computer{
-      
-      display:inline-block;
-}
+
 
 .phone{
       margin-left: 50px;
-      display:inline-block;
+      
 }
 
 .mailbox{
       margin-left: 100px;
-      display:inline-block;
+      
 }
 
 .research{
@@ -99,7 +96,6 @@ a:active {color:#000000;}  /* selected link */
 
 .professional{
       margin-right: 100px;
-      display:inline-block;
 }
 
 .essay{ 
