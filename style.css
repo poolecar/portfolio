@@ -1,5 +1,5 @@
 h1 {
-      font-family: arial Rounded MT Bold ;
+      font-family: "arial Rounded MT Bold" ;
       
       color: #ffffff;
       text-align: center;
@@ -11,27 +11,27 @@ h1 {
 }
 
 h2 { 
-      font-family: arial;
+      font-family: "arial";
       color:#000000;
       text-align: center;
       font-size: 12px; 
 }
 
 h3{ 
-      font-family: arial;
+      font-family: "arial";
       color: #082b64;
       text-align: center;
       font-size: 16px;
 }
 
 h4 {
-      font-family: Georgia;
+      font-family: "Georgia";
       color: #5b0311;
       font-size: 48px;
 }
 
 h5 {
-      font-family: arial;
+      font-family: "arial";
       color: #082b64;
 }
 p a {
