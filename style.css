@@ -79,9 +79,10 @@ a:active {color:#000000;}  /* selected link */
 
 .computer{
       margin-right: 20px;
+      display:inline-block;
 }
 
-.telephone{
+.phone{
       margin-left: 200px;
 }
 
