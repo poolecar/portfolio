@@ -91,19 +91,7 @@ a:active {color:#000000;}  /* selected link */
       
 }
 
-.research{
-      margin-left: 150px;
-      display:inline-block
-}
 
-.professional{
-      margin-right: 100px;
-      display:inline-block;
-}
-
-.essay{ 
-      margin-left: 200px;
-      display:inline-block;
 img{
   height:250px;
 }
