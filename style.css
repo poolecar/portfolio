@@ -92,6 +92,11 @@ a:active {color:#000000;}  /* selected link */
       display:inline-block;
 }
 
+.research{
+      margin-left: 150px;
+      display:inline-block;
+}
+
 img{
   height:250px;
 }
